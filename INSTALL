@@ -1,0 +1,9 @@
+Building Nusacoin
+
+See doc/readme-qt.rst for instructions on building Nusacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nusacoin.
+
+See doc/build-*.txt for instructions on building nusacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nusacoin.
